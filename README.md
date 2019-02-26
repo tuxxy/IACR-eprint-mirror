@@ -5,8 +5,8 @@ All postscript files have been converted to PDFs.
 The postscript papers that remain have syntax errors and can't be converted, they are:
 
 1. 1997/015.ps
-2. 1997/008.ps
-3. 2002/003.ps
+2. 1997/008.ps <-- Fixed, thanks to @Deadlyelder
+3. 2002/003.ps <-- Fixed, thanks to Matthew McPherrin
 
 
 ## Licensing
